@@ -1,3 +1,5 @@
+package org.katascode.katasupermarket;
+
 import java.util.List;
 
 /**

@@ -13,7 +13,7 @@ import static org.mockito.Mockito.*;
 public class SuperMarketTest
 {
     @Mock
-    private SupplementMarketInterface suplementMarket;
+    private SupplementMarketInterface supplementMarket;
 
     @Before
     public void setUp()
@@ -26,7 +26,7 @@ public class SuperMarketTest
     @Test
     public void shouldCallSupermarketInterface()
     {
-        when(suplementMarket.getTax(anyString())).thenReturn(11);
+        when(supplementMarket.getTax(anyString())).thenReturn(11);
 
         ...
     }
