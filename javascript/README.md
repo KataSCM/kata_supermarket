@@ -11,7 +11,7 @@ describe("A spy", function() {
   });
 
   it("tracks that the spy was called", function() {
-    spyOn(SupplementMarketInterface, 'getTax').and.returnValue(11);
+    spyOn(SupplementMarketInterface.prototype, 'getTax').and.returnValue(11);
   });
 });
 ```
