@@ -1,7 +1,8 @@
 # Using Mocks with Mockito
 
 [Mockito documentation](http://site.mockito.org/#how)
-´´´´
+
+```java
 ...
 import org.mockito.Mock;
 import org.mockito.MockitoAnnotations;
@@ -30,4 +31,4 @@ public class SuperMarketTest
         ...
     }
 }
-´´´´
+```
