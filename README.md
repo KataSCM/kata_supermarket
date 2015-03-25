@@ -26,7 +26,7 @@ and/or
 "ACDFAAAF"
 ```
 
-> **Tip:** The prices are fixed and you can saves in a private array or similar. Obtaining price is not the exercise objective.
+> **Tip:** The prices are fixed and you can save in a private array or similar. Obtaining price is not the exercise's objective.
 
 ##Exercise 1
 
@@ -57,7 +57,7 @@ Output:
 | F         | 59$           |    5                |  295$      |
 
 
-> **Tip:** The output format is not important, can be a array, list,...
+> **Tip:** The output format is not important, can be an array, list,...
 
 ##Exercise 2
 Using SupplementMarketInterface, calculate the tax of every product.
